@@ -1,0 +1,1 @@
+The images files in .npy format are stored in this folder.
